@@ -33,7 +33,7 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | WebGL landing | Three.js, Vite | 3D frontend engineering, performance, visual storytelling |
 | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) | Health-tech mobile app | React Native, Expo, TypeScript | Domain logic, i18n, reports, mobile product thinking |
 | [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) | Telegram automation | Rust, Teloxide, SQLx, Docker | Clean architecture, reminders, audit logs, async jobs |
-| [Omega](https://github.com/SamandarMansurkhodjaev2713/Omega) | Premium landing | Next.js, TypeScript, motion | SSR-first frontend, typed content, visual polish |
+| [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) | Interactive portfolio | HTML/CSS/JS, React, Three.js | Personal branding, product presentation, frontend polish |
 | [bioflux-observer](https://github.com/SamandarMansurkhodjaev2713/bioflux-observer) | Industrial dashboard | React, TypeScript, Recharts | Telemetry UI, alarm rules, operational dashboards |
 
 ## Private & Commercial Work
@@ -84,7 +84,7 @@ See: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/p
 2. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
 3. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
 4. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
-5. [Omega](https://github.com/SamandarMansurkhodjaev2713/Omega) — premium Next.js landing с motion/SSR-first подходом.
+5. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
 
 ## Формат работы
 

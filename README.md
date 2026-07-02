@@ -25,6 +25,18 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | **Frontend & design** | Responsive interfaces, interactive 3D/WebGL, motion systems, product-level UI |
 | **Backend & systems** | APIs, queues, workers, databases, auth, Docker, observability, service boundaries |
 
+## Build Range
+
+| Product class | Examples from my work |
+|---|---|
+| **Enterprise platforms** | On-prem collaboration, project management, chat, files, search, audit logs |
+| **AI products** | Legal AI, classroom analytics, AI workers, RAG, structured outputs |
+| **Automation systems** | Telegram bots, voice-to-task flows, browser automation, crawlers, retry pipelines |
+| **Monitoring/proctoring** | Windows client-agent, encrypted telemetry, admin panel, policy delivery |
+| **Health-tech** | Mobile health app, offline desktop calculator, reports and domain rules |
+| **Creative/frontend** | WebGL/Three.js landing, interactive CV, polished product UI |
+| **Infrastructure** | Docker, queues, PostgreSQL, Redis, deployment scripts, on-prem packaging |
+
 ## Selected Work
 
 | Project | Type | Stack | What it shows |
@@ -51,6 +63,8 @@ Instead, I document selected projects as **case studies**:
 
 See: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase)
 
+Private case studies include legal AI, enterprise collaboration, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows and consumer product work.
+
 ## Tech Stack
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js  
@@ -72,11 +86,26 @@ See: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/p
 
 ## Чем я полезен
 
-- Быстро разбираюсь в предметной области и превращаю хаос требований в понятную систему.
-- Умею делать full-stack: от базы данных и API до интерфейса, деплоя и документации.
-- Работаю с AI не только на уровне prompt engineering, а как с частью production architecture.
-- Думаю о продукте: пользователях, бизнес-результате, UX, скорости итераций и поддержке.
-- Могу закрыть проект end-to-end: от идеи и прототипа до MVP и демонстрации инвестору/работодателю.
+| Направление | Что я могу построить |
+|---|---|
+| **Full-stack продукты** | SaaS-платформы, админ-панели, dashboards, collaborative tools, landing systems |
+| **AI automation** | RAG-ассистенты, AI workers, structured outputs, аналитические пайплайны, AI-powered bots |
+| **Telegram automation** | Voice-to-task боты, task workflows, уведомления, операционные ассистенты |
+| **Product engineering** | UX, бизнес-логика, MVP, архитектура фич, polish, launch readiness |
+| **Frontend & design** | Responsive UI, 3D/WebGL, motion systems, визуально сильные интерфейсы |
+| **Backend & systems** | API, очереди, workers, базы данных, auth, Docker, observability, service boundaries |
+
+## Диапазон проектов
+
+| Класс продукта | Примеры из моих проектов |
+|---|---|
+| **Enterprise platforms** | On-prem collaboration, project management, chat, files, search, audit logs |
+| **AI products** | Legal AI, classroom analytics, AI workers, RAG, structured outputs |
+| **Automation systems** | Telegram bots, voice-to-task flows, browser automation, crawlers, retry pipelines |
+| **Monitoring/proctoring** | Windows client-agent, encrypted telemetry, admin panel, policy delivery |
+| **Health-tech** | Mobile health app, offline desktop calculator, reports and domain rules |
+| **Creative/frontend** | WebGL/Three.js landing, interactive CV, polished product UI |
+| **Infrastructure** | Docker, queues, PostgreSQL, Redis, deployment scripts, on-prem packaging |
 
 ## Что стоит посмотреть
 
@@ -85,6 +114,33 @@ See: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/p
 3. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
 4. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
 5. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
+
+## Приватные и коммерческие проекты
+
+Многие сильные проекты приватные: они делались для продуктов, компаний, чувствительных доменов или закрытой бизнес-логики. Я не публикую приватный source code, customer data, `.env`, credentials и внутренние алгоритмы.
+
+Вместо этого я оформляю их как **case studies**:
+
+- какую проблему решает проект;
+- какая была моя роль и зона ответственности;
+- какой стек использовался;
+- как устроена архитектура;
+- почему архитектура выбрана именно так;
+- какие есть quality signals: тесты, CI, Docker, type safety, monitoring, security/privacy boundaries;
+- какие демо/скриншоты можно безопасно показать.
+
+В private showcase уже есть legal AI, enterprise collaboration, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows и consumer product.
+
+См.: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase)
+
+## Стек
+
+**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js  
+**Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC  
+**AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers  
+**Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker  
+**Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows service/client-agent  
+**Quality:** tests, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
 
 ## Формат работы
 

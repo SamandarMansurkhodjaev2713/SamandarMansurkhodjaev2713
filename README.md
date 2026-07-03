@@ -24,12 +24,16 @@
 
 I build complete products: web apps, AI workflows, Telegram bots, dashboards, automation systems, mobile/desktop apps and polished interfaces. My strongest area is turning an unclear business problem into a working technical system: architecture, backend, frontend, UX, deployment and iteration.
 
-I’m currently studying **Software Engineering at IT Park University** and building my own products alongside client and commercial work.
+I’m currently a **3rd-year Bachelor's student in Software Engineering at IT Park University** and building my own products alongside client and commercial work.
 
 <p>
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md">Project cards</a>
   ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards">One-page cards</a>
+  ·
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md">Job package</a>
+  ·
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md">Demo kit</a>
   ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase">Private project case studies</a>
   ·
@@ -81,6 +85,8 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Case studies | Architecture docs | Commercial/private projects without exposing source code |
 | [Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) | Bilingual portfolio cards | EN/RU case cards | Fast overview for HR, tech leads, clients and founders |
 | [One-page Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Shareable cards | EN/RU one-pagers | Clean per-project links for employers and clients |
+| [Job Package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) | Hiring package | Positioning, pitches, proof map | Clear route for recruiters, tech leads, clients and partners |
+| [Demo & Interview Kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) | Demo playbook | Project scripts, safe demo rules | Shows what to open first and how to explain private projects |
 | [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, serial protocol, local bridge and operator console |
 | [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) | Consumer product | Next.js, Supabase, PWA | Mobile-first private UX, product mechanics and founder-style execution |
 | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | WebGL landing | Three.js, Vite | 3D frontend engineering, performance, visual storytelling |
@@ -131,7 +137,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 Я создаю законченные продукты: веб-приложения, AI-автоматизации, Telegram-ботов, dashboards, внутренние системы, mobile/desktop приложения и аккуратные интерфейсы. Моя сильная сторона — не просто написать код, а превратить бизнес-задачу в рабочую систему: архитектура, backend, frontend, UX, деплой и развитие продукта.
 
-Сейчас я учусь на **Software Engineering в IT Park University** и параллельно развиваю собственные продукты и коммерческие проекты.
+Сейчас я учусь на **3 курсе бакалавриата Software Engineering в IT Park University** и параллельно развиваю собственные продукты и коммерческие проекты.
 
 ## Чем я полезен
 
@@ -174,12 +180,14 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 1. [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — кейсы приватных проектов без раскрытия исходного кода.
 2. [Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) — быстрые карточки на английском и русском для HR, техлидов, клиентов и founders.
 3. [One-page Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) — отдельные красивые карточки по каждому сильному проекту.
-4. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
-5. [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) — mobile-first consumer product для пар с приватным UX и product mechanics.
-6. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
-7. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
-8. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
-9. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
+4. [Job Package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) — позиционирование, role fit, pitches и proof map для найма/клиентов.
+5. [Demo & Interview Kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) — что показывать HR, техлиду, founder/client и как объяснять приватные проекты.
+6. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
+7. [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) — mobile-first consumer product для пар с приватным UX и product mechanics.
+8. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
+9. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
+10. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
+11. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
 
 ## Приватные и коммерческие проекты
 

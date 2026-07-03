@@ -36,6 +36,8 @@ I’m currently completing formal higher education in IT as a **3rd-year Bachelo
   ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md">Demo kit</a>
   ·
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/visual-evidence-pack.md">Live proof</a>
+  ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase">Private project case studies</a>
   ·
   <a href="https://github.com/SamandarMansurkhodjaev2713?tab=repositories">Repositories</a>
@@ -94,10 +96,11 @@ I’m currently completing formal higher education in IT as a **3rd-year Bachelo
 | [One-page Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Shareable cards | EN/RU one-pagers | Clean per-project links for employers and clients |
 | [Job Package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) | Hiring package | Positioning, pitches, proof map | Clear route for recruiters, tech leads, clients and partners |
 | [Demo & Interview Kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) | Demo playbook | Project scripts, safe demo rules | Shows what to open first and how to explain private projects |
+| [Visual Evidence Pack](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/visual-evidence-pack.md) | Live proof map | Demos, Actions, screenshots | Shows which projects can be opened, checked or presented visually |
 | [Klawis](https://klawis.uz) | Deployed legal AI product | FastAPI, Next.js, Supabase, RAG | Source-backed legal AI, active roadmap and sensitive-domain UX |
 | [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, serial protocol, local bridge and operator console |
 | [CoupleOS / Softly](https://softlylove.uz) | Founder-led consumer product | Next.js, Supabase, PWA | Live relationship product with emotional UX, privacy and retention mechanics |
-| [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | WebGL landing | Three.js, Vite | 3D frontend engineering, performance, visual storytelling |
+| [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/) | WebGL landing | Three.js, Vite | Touchable 3D frontend demo with performance-aware visual storytelling |
 | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) | Health-tech mobile app | React Native, Expo, TypeScript | Domain logic, i18n, reports, mobile product thinking |
 | [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) | Telegram automation | Rust, Teloxide, SQLx, Docker | Clean architecture, reminders, audit logs, async jobs |
 | [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) | Interactive portfolio | HTML/CSS/JS, React, Three.js | Personal branding, product presentation, frontend polish |
@@ -197,13 +200,14 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 3. [One-page Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) — отдельные красивые карточки по каждому сильному проекту.
 4. [Job Package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) — позиционирование, role fit, pitches и proof map для найма/клиентов.
 5. [Demo & Interview Kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) — что показывать HR, техлиду, founder/client и как объяснять приватные проекты.
-6. [Klawis](https://klawis.uz) — задеплоенный legal AI продукт с RAG, цитированием, roadmap и sensitive-domain UX.
-7. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
-8. [CoupleOS / Softly](https://softlylove.uz) — мой founder-led live product для пар с emotional UX, privacy и retention mechanics.
-9. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
-10. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
-11. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
-12. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
+6. [Visual Evidence Pack](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/visual-evidence-pack.md) — live demos, GitHub Actions proof и план скриншотов/видео.
+7. [Klawis](https://klawis.uz) — задеплоенный legal AI продукт с RAG, цитированием, roadmap и sensitive-domain UX.
+8. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
+9. [CoupleOS / Softly](https://softlylove.uz) — мой founder-led live product для пар с emotional UX, privacy и retention mechanics.
+10. [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/) — Three.js/WebGL и живой визуальный frontend demo.
+11. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
+12. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
+13. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
 
 ## Приватные и коммерческие проекты
 

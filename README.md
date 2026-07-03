@@ -24,6 +24,7 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | **Product engineering** | UX, business logic, MVPs, feature architecture, polish and launch readiness |
 | **Frontend & design** | Responsive interfaces, interactive 3D/WebGL, motion systems, product-level UI |
 | **Backend & systems** | APIs, queues, workers, databases, auth, Docker, observability, service boundaries |
+| **Embedded & IoT** | Arduino-style firmware, serial protocols, Node.js bridges, realtime operator dashboards |
 
 ## Build Range
 
@@ -34,6 +35,7 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | **Automation systems** | Telegram bots, voice-to-task flows, browser automation, crawlers, retry pipelines |
 | **Monitoring/proctoring** | Windows client-agent, encrypted telemetry, admin panel, policy delivery |
 | **Health-tech** | Mobile health app, offline desktop calculator, reports and domain rules |
+| **Embedded/IoT systems** | Arduino firmware, adaptive sensor baselines, serial protocol, local realtime dashboard |
 | **Creative/frontend** | WebGL/Three.js landing, interactive CV, polished product UI |
 | **Infrastructure** | Docker, queues, PostgreSQL, Redis, deployment scripts, on-prem packaging |
 
@@ -42,6 +44,7 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | Project | Type | Stack | What it shows |
 |---|---|---|---|
 | [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Case studies | Architecture docs | Commercial/private projects without exposing source code |
+| [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, serial protocol, local bridge and operator console |
 | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | WebGL landing | Three.js, Vite | 3D frontend engineering, performance, visual storytelling |
 | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) | Health-tech mobile app | React Native, Expo, TypeScript | Domain logic, i18n, reports, mobile product thinking |
 | [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) | Telegram automation | Rust, Teloxide, SQLx, Docker | Clean architecture, reminders, audit logs, async jobs |
@@ -69,6 +72,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js  
 **Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC  
+**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards  
 **AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers  
 **Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker  
 **Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture  
@@ -94,6 +98,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 | **Product engineering** | UX, бизнес-логика, MVP, архитектура фич, polish, launch readiness |
 | **Frontend & design** | Responsive UI, 3D/WebGL, motion systems, визуально сильные интерфейсы |
 | **Backend & systems** | API, очереди, workers, базы данных, auth, Docker, observability, service boundaries |
+| **Embedded & IoT** | Arduino-style firmware, serial protocols, Node.js bridges, realtime operator dashboards |
 
 ## Диапазон проектов
 
@@ -104,16 +109,18 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 | **Automation systems** | Telegram bots, voice-to-task flows, browser automation, crawlers, retry pipelines |
 | **Monitoring/proctoring** | Windows client-agent, encrypted telemetry, admin panel, policy delivery |
 | **Health-tech** | Mobile health app, offline desktop calculator, reports and domain rules |
+| **Embedded/IoT systems** | Arduino firmware, adaptive sensor baselines, serial protocol, local realtime dashboard |
 | **Creative/frontend** | WebGL/Three.js landing, interactive CV, polished product UI |
 | **Infrastructure** | Docker, queues, PostgreSQL, Redis, deployment scripts, on-prem packaging |
 
 ## Что стоит посмотреть
 
 1. [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — кейсы приватных проектов без раскрытия исходного кода.
-2. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
-3. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
-4. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
-5. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
+2. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
+3. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
+4. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
+5. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
+6. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
 
 ## Приватные и коммерческие проекты
 
@@ -137,6 +144,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js  
 **Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC  
+**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards  
 **AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers  
 **Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker  
 **Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows service/client-agent  

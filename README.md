@@ -72,7 +72,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js  
 **Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC  
-**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards  
+**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards<br>
 **AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers  
 **Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker  
 **Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture  
@@ -144,7 +144,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js  
 **Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC  
-**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards  
+**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards<br>
 **AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers  
 **Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker  
 **Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows service/client-agent  

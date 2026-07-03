@@ -34,11 +34,11 @@
   |
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards">Карточки проектов</a>
   |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md">Job package</a>
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/portfolio-guide.md">Путеводитель</a>
   |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md">Demo kit</a>
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md">Сотрудничество</a>
   |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/visual-evidence-pack.md">Live proof</a>
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md">Доказательства</a>
   |
   <a href="https://github.com/SamandarMansurkhodjaev2713?tab=repositories">Репозитории</a>
 </p>
@@ -49,8 +49,8 @@
 |---|---|---|
 | HR или рекрутер | [Карта проектов](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) | Быстрое понимание ролей, сильных проектов, стека и уровня ответственности |
 | Техлид или CTO | [Карточки проектов](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Архитектуру, стек, компромиссы, сложность и инженерные сигналы |
-| Founder, клиент или партнер | [Job package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) и [Demo kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) | Как я объясняю продукты, показываю результат и думаю о бизнес-ценности |
-| Нужно живое доказательство | [Visual evidence pack](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/visual-evidence-pack.md) | Демо, public repos, GitHub Actions, ссылки и безопасные материалы для показа |
+| Founder, клиент или партнер | [Сотрудничество](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md) и [Доказательства](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Как я превращаю идеи и задачи в продуктовую и бизнес-ценность |
+| Нужно живое доказательство | [Доказательства](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Демо, public repos, GitHub Actions, ссылки и безопасные материалы для показа |
 
 ## Образование
 
@@ -130,8 +130,8 @@ I am currently completing formal higher education in IT as a **3rd-year Bachelor
 |---|---|---|
 | Recruiter or HR | [Project map](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) | Fast overview of roles, strongest projects, stack and ownership |
 | Tech lead or CTO | [Project cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Architecture, stack, tradeoffs, complexity and engineering signals |
-| Founder, client or partner | [Job package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) and [Demo kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) | How I explain products, show results and think about business value |
-| You need live proof | [Visual evidence pack](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/visual-evidence-pack.md) | Demos, public repos, GitHub Actions, links and safe presentation assets |
+| Founder, client or partner | [Collaboration](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md) and [Proof](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | How I turn ideas and tasks into product and business value |
+| You need live proof | [Proof](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Demos, public repos, GitHub Actions, links and safe presentation assets |
 
 ## Education
 

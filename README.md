@@ -7,6 +7,7 @@
   <img alt="AI automation" src="https://img.shields.io/badge/AI-Automation%20%26%20RAG-7c3aed?style=flat-square">
   <img alt="System design" src="https://img.shields.io/badge/System-Design%20%26%20Architecture-0f766e?style=flat-square">
   <img alt="Embedded" src="https://img.shields.io/badge/Embedded-IoT%20%26%20Realtime-334155?style=flat-square">
+  <img alt="Education" src="https://img.shields.io/badge/Education-Software%20Engineering%20Bachelor-0f172a?style=flat-square">
 </p>
 
 <p>
@@ -24,7 +25,7 @@
 
 I build complete products: web apps, AI workflows, Telegram bots, dashboards, automation systems, mobile/desktop apps and polished interfaces. My strongest area is turning an unclear business problem into a working technical system: architecture, backend, frontend, UX, deployment and iteration.
 
-I’m currently a **3rd-year Bachelor's student in Software Engineering at IT Park University** and building my own products alongside client and commercial work.
+I’m currently completing formal higher education in IT as a **3rd-year Bachelor's student in Software Engineering at IT Park University**, while building my own products alongside client and commercial work.
 
 <p>
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md">Project cards</a>
@@ -39,6 +40,12 @@ I’m currently a **3rd-year Bachelor's student in Software Engineering at IT Pa
   ·
   <a href="https://github.com/SamandarMansurkhodjaev2713?tab=repositories">Repositories</a>
 </p>
+
+## Education
+
+| Institution | Degree | Current stage | Focus |
+|---|---|---|---|
+| **IT Park University** | Bachelor's degree in **Software Engineering** | 3rd-year student | Software engineering, product development, system design and practical IT projects |
 
 ---
 
@@ -71,9 +78,9 @@ I’m currently a **3rd-year Bachelor's student in Software Engineering at IT Pa
 
 | Signal | Best proof |
 |---|---|
-| **Founder/product-minded engineering** | [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) |
+| **Founder/product-minded engineering** | [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CoupleOS / Softly](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) ([live](https://softlylove.uz)) |
 | **Enterprise/system design** | [TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md), [BelfProctor](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/belfproctor.md) |
-| **AI and RAG products** | [Klawis](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/klawis.md) |
+| **AI and RAG products** | [Klawis](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/klawis.md) ([live](https://klawis.uz)) |
 | **Automation under real constraints** | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Task Manage Bot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/task-manage-bot.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md) |
 | **Breadth beyond web** | [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system), [med-exe](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/med-exe.md) |
 | **Visual frontend and design** | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing), [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) |
@@ -87,8 +94,9 @@ I’m currently a **3rd-year Bachelor's student in Software Engineering at IT Pa
 | [One-page Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Shareable cards | EN/RU one-pagers | Clean per-project links for employers and clients |
 | [Job Package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) | Hiring package | Positioning, pitches, proof map | Clear route for recruiters, tech leads, clients and partners |
 | [Demo & Interview Kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) | Demo playbook | Project scripts, safe demo rules | Shows what to open first and how to explain private projects |
+| [Klawis](https://klawis.uz) | Deployed legal AI product | FastAPI, Next.js, Supabase, RAG | Source-backed legal AI, active roadmap and sensitive-domain UX |
 | [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, serial protocol, local bridge and operator console |
-| [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) | Consumer product | Next.js, Supabase, PWA | Mobile-first private UX, product mechanics and founder-style execution |
+| [CoupleOS / Softly](https://softlylove.uz) | Founder-led consumer product | Next.js, Supabase, PWA | Live relationship product with emotional UX, privacy and retention mechanics |
 | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | WebGL landing | Three.js, Vite | 3D frontend engineering, performance, visual storytelling |
 | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) | Health-tech mobile app | React Native, Expo, TypeScript | Domain logic, i18n, reports, mobile product thinking |
 | [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) | Telegram automation | Rust, Teloxide, SQLx, Docker | Clean architecture, reminders, audit logs, async jobs |
@@ -110,7 +118,7 @@ Instead, I document selected projects as **case studies**:
 
 See: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase)
 
-Private case studies include legal AI, enterprise collaboration, an AI-native learning platform, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows and CoupleOS consumer product work.
+Private case studies include legal AI, enterprise collaboration, an AI-native learning platform, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows and CoupleOS / Softly consumer product work.
 
 ## Tech Stack
 
@@ -133,11 +141,18 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
   <img alt="AI automation" src="https://img.shields.io/badge/AI-Automation%20%26%20RAG-7c3aed?style=flat-square">
   <img alt="System design" src="https://img.shields.io/badge/System-Design%20%26%20Architecture-0f766e?style=flat-square">
   <img alt="Embedded" src="https://img.shields.io/badge/Embedded-IoT%20%26%20Realtime-334155?style=flat-square">
+  <img alt="Education" src="https://img.shields.io/badge/Education-Software%20Engineering%20Bachelor-0f172a?style=flat-square">
 </p>
 
 Я создаю законченные продукты: веб-приложения, AI-автоматизации, Telegram-ботов, dashboards, внутренние системы, mobile/desktop приложения и аккуратные интерфейсы. Моя сильная сторона — не просто написать код, а превратить бизнес-задачу в рабочую систему: архитектура, backend, frontend, UX, деплой и развитие продукта.
 
-Сейчас я учусь на **3 курсе бакалавриата Software Engineering в IT Park University** и параллельно развиваю собственные продукты и коммерческие проекты.
+Сейчас я получаю **высшее образование в IT**: учусь на **3 курсе бакалавриата Software Engineering в IT Park University** и параллельно развиваю собственные продукты и коммерческие проекты.
+
+## Образование
+
+| Университет | Степень | Текущий этап | Фокус |
+|---|---|---|---|
+| **IT Park University** | Бакалавриат по **Software Engineering** | 3 курс | Software engineering, product development, system design и практические IT-проекты |
 
 ## Чем я полезен
 
@@ -168,9 +183,9 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 | Сигнал | Где это видно |
 |---|---|
-| **Founder/product-minded engineering** | [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) |
+| **Founder/product-minded engineering** | [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CoupleOS / Softly](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) ([live](https://softlylove.uz)) |
 | **Enterprise/system design** | [TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md), [BelfProctor](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/belfproctor.md) |
-| **AI и RAG продукты** | [Klawis](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/klawis.md) |
+| **AI и RAG продукты** | [Klawis](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/klawis.md) ([live](https://klawis.uz)) |
 | **Автоматизация в реальных условиях** | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Task Manage Bot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/task-manage-bot.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md) |
 | **Широта за пределами веба** | [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system), [med-exe](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/med-exe.md) |
 | **Визуальный frontend и дизайн** | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing), [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) |
@@ -182,12 +197,13 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 3. [One-page Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) — отдельные красивые карточки по каждому сильному проекту.
 4. [Job Package](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/job-package.md) — позиционирование, role fit, pitches и proof map для найма/клиентов.
 5. [Demo & Interview Kit](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/demo-kit.md) — что показывать HR, техлиду, founder/client и как объяснять приватные проекты.
-6. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
-7. [CoupleOS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) — mobile-first consumer product для пар с приватным UX и product mechanics.
-8. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
-9. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
-10. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
-11. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
+6. [Klawis](https://klawis.uz) — задеплоенный legal AI продукт с RAG, цитированием, roadmap и sensitive-domain UX.
+7. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
+8. [CoupleOS / Softly](https://softlylove.uz) — мой founder-led live product для пар с emotional UX, privacy и retention mechanics.
+9. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
+10. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
+11. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
+12. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
 
 ## Приватные и коммерческие проекты
 
@@ -203,7 +219,7 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 - какие есть quality signals: тесты, CI, Docker, type safety, monitoring, security/privacy boundaries;
 - какие демо/скриншоты можно безопасно показать.
 
-В private showcase уже есть legal AI, enterprise collaboration, AI-native learning platform, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows и CoupleOS consumer product.
+В private showcase уже есть legal AI, enterprise collaboration, AI-native learning platform, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows и CoupleOS / Softly consumer product.
 
 См.: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase)
 

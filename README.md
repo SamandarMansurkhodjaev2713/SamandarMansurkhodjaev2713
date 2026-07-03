@@ -2,11 +2,20 @@
 
 **Full-stack Developer · AI Automation Developer · Product-minded Engineer · Founder**
 
+<p>
+  <img alt="Full-stack" src="https://img.shields.io/badge/Full--stack-Product%20Engineering-1f6feb?style=flat-square">
+  <img alt="AI automation" src="https://img.shields.io/badge/AI-Automation%20%26%20RAG-7c3aed?style=flat-square">
+  <img alt="System design" src="https://img.shields.io/badge/System-Design%20%26%20Architecture-0f766e?style=flat-square">
+  <img alt="Embedded" src="https://img.shields.io/badge/Embedded-IoT%20%26%20Realtime-334155?style=flat-square">
+</p>
+
 I build complete products: web apps, AI workflows, Telegram bots, dashboards, automation systems, mobile/desktop apps and polished interfaces. My strongest area is turning an unclear business problem into a working technical system: architecture, backend, frontend, UX, deployment and iteration.
 
 I’m currently studying **Software Engineering at IT Park University** and building my own products alongside client and commercial work.
 
 <p>
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md">Project cards</a>
+  ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase">Private project case studies</a>
   ·
   <a href="https://github.com/SamandarMansurkhodjaev2713?tab=repositories">Repositories</a>
@@ -44,6 +53,7 @@ I’m currently studying **Software Engineering at IT Park University** and buil
 | Project | Type | Stack | What it shows |
 |---|---|---|---|
 | [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Case studies | Architecture docs | Commercial/private projects without exposing source code |
+| [Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) | Bilingual portfolio cards | EN/RU case cards | Fast overview for HR, tech leads, clients and founders |
 | [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, serial protocol, local bridge and operator console |
 | [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | WebGL landing | Three.js, Vite | 3D frontend engineering, performance, visual storytelling |
 | [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) | Health-tech mobile app | React Native, Expo, TypeScript | Domain logic, i18n, reports, mobile product thinking |
@@ -84,6 +94,13 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 
 **Full-stack Developer · AI Automation Developer · Product-minded Engineer · Founder**
 
+<p>
+  <img alt="Full-stack" src="https://img.shields.io/badge/Full--stack-Product%20Engineering-1f6feb?style=flat-square">
+  <img alt="AI automation" src="https://img.shields.io/badge/AI-Automation%20%26%20RAG-7c3aed?style=flat-square">
+  <img alt="System design" src="https://img.shields.io/badge/System-Design%20%26%20Architecture-0f766e?style=flat-square">
+  <img alt="Embedded" src="https://img.shields.io/badge/Embedded-IoT%20%26%20Realtime-334155?style=flat-square">
+</p>
+
 Я создаю законченные продукты: веб-приложения, AI-автоматизации, Telegram-ботов, dashboards, внутренние системы, mobile/desktop приложения и аккуратные интерфейсы. Моя сильная сторона — не просто написать код, а превратить бизнес-задачу в рабочую систему: архитектура, backend, frontend, UX, деплой и развитие продукта.
 
 Сейчас я учусь на **Software Engineering в IT Park University** и параллельно развиваю собственные продукты и коммерческие проекты.
@@ -116,11 +133,12 @@ Private case studies include legal AI, enterprise collaboration, an AI-native le
 ## Что стоит посмотреть
 
 1. [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — кейсы приватных проектов без раскрытия исходного кода.
-2. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
-3. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
-4. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
-5. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
-6. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
+2. [Project Cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) — быстрые карточки на английском и русском для HR, техлидов, клиентов и founders.
+3. [sentinel-edge-smart-system](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) — Arduino firmware, serial protocol, Node.js bridge и realtime React dashboard.
+4. [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL и сильный визуальный frontend.
+5. [cardioguard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) — mobile health-tech приложение с доменной логикой.
+6. [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) — Rust Telegram bot с clean architecture.
+7. [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное CV/portfolio с product-style подачей и визуальным frontend polish.
 
 ## Приватные и коммерческие проекты
 

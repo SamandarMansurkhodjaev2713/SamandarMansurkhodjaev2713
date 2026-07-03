@@ -63,7 +63,7 @@ Instead, I document selected projects as **case studies**:
 
 See: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase)
 
-Private case studies include legal AI, enterprise collaboration, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows and consumer product work.
+Private case studies include legal AI, enterprise collaboration, an AI-native learning platform, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows and consumer product work.
 
 ## Tech Stack
 
@@ -129,7 +129,7 @@ Private case studies include legal AI, enterprise collaboration, proctoring, VFS
 - какие есть quality signals: тесты, CI, Docker, type safety, monitoring, security/privacy boundaries;
 - какие демо/скриншоты можно безопасно показать.
 
-В private showcase уже есть legal AI, enterprise collaboration, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows и consumer product.
+В private showcase уже есть legal AI, enterprise collaboration, AI-native learning platform, proctoring, VFS/browser automation, health-tech desktop, e-commerce automation, Telegram workflows и consumer product.
 
 См.: [private-projects-showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase)
 

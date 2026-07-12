@@ -1,10 +1,11 @@
 # Привет, я Самандар Мансурходжаев
 
-**Full-stack Developer | AI Automation Developer | Product-minded Software Engineer | Founder**
+**Full-stack Developer | QA Engineer | AI Automation Developer | Product-minded Software Engineer | Founder**
 
 <p>
   <img alt="Full-stack" src="https://img.shields.io/badge/Full--stack-Product%20Engineering-1f6feb?style=flat-square">
   <img alt="AI automation" src="https://img.shields.io/badge/AI-Automation%20%26%20RAG-7c3aed?style=flat-square">
+  <img alt="Quality engineering" src="https://img.shields.io/badge/QA-Test%20Design%20%26%20Automation-d97706?style=flat-square">
   <img alt="System design" src="https://img.shields.io/badge/System-Design%20%26%20Architecture-0f766e?style=flat-square">
   <img alt="Embedded" src="https://img.shields.io/badge/Embedded-IoT%20%26%20Realtime-334155?style=flat-square">
   <img alt="Education" src="https://img.shields.io/badge/Education-Software%20Engineering%20Bachelor-0f172a?style=flat-square">
@@ -23,7 +24,7 @@
   <img height="28" alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg">
 </p>
 
-Я строю законченные продукты, а не отдельные куски кода: web apps, AI workflows, Telegram-автоматизации, dashboards, mobile/desktop приложения, embedded/IoT системы, визуальные интерфейсы и внутренние бизнес-инструменты. Моя сильная сторона: быстро превращать неясную бизнес-задачу в работающую систему с архитектурой, backend, frontend, UX, деплоем и понятной логикой развития.
+Я строю законченные продукты, а не отдельные куски кода: web apps, AI workflows, Telegram-автоматизации, dashboards, mobile/desktop приложения, embedded/IoT системы, визуальные интерфейсы и внутренние бизнес-инструменты. Моя сильная сторона: быстро превращать неясную бизнес-задачу в работающую систему с архитектурой, backend, frontend, UX, деплоем и понятной логикой развития. Отдельно развиваю QA-направление: test design, UI/API testing, интеграционные проверки, автоматизация критических сценариев и quality gates в CI.
 
 Сейчас я получаю высшее IT-образование: учусь на **3 курсе бакалавриата Software Engineering в IT Park University**. Параллельно развиваю собственные продукты и коммерческие проекты, поэтому смотрю на разработку не только как инженер, но и как человек, который отвечает за ценность, скорость, качество и результат.
 
@@ -40,6 +41,8 @@
   |
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md">Доказательства</a>
   |
+  <a href="https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio">QA-портфолио</a>
+  |
   <a href="https://github.com/SamandarMansurkhodjaev2713?tab=repositories">Репозитории</a>
 </p>
 
@@ -51,6 +54,7 @@
 | Техлид или CTO | [Карточки проектов](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Архитектуру, стек, компромиссы, сложность и инженерные сигналы |
 | Founder, клиент или партнер | [Сотрудничество](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md) и [Доказательства](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Как я превращаю идеи и задачи в продуктовую и бизнес-ценность |
 | Нужно живое доказательство | [Доказательства](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Демо, public repos, GitHub Actions, ссылки и безопасные материалы для показа |
+| QA Lead или тестировщик | [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) | Test strategy, test design, Playwright/pytest/xUnit кейсы, API и SQL-практика |
 
 ## Образование
 
@@ -69,6 +73,7 @@
 | **Frontend & design** | Responsive UI, 3D/WebGL, motion, визуальная подача, интерфейсы с продуктовым вкусом |
 | **Backend & systems** | API, очереди, workers, базы данных, auth, Docker, сервисные границы, observability |
 | **Embedded & IoT** | Arduino-style firmware, serial protocols, Node.js bridges, realtime operator dashboards |
+| **QA & test automation** | Test design, чек-листы, test cases, bug reports, UI/API/E2E/integration testing, Playwright, pytest, xUnit, Postman, CI quality gates |
 
 ## Карта доказательств
 
@@ -80,6 +85,7 @@
 | **Автоматизация в реальных условиях** | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Task Manage Bot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/task-manage-bot.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md) |
 | **Широта за пределами web** | [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system), [med-exe](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/med-exe.md) |
 | **Визуальный frontend и дизайн** | [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/), [CV-Samandar](https://samandarmansurkhodjaev2713.github.io/CV-Samandar/) |
+| **QA и автоматизация тестирования** | [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio): TTYL Playwright, BelfProctor xUnit/Moq, VFS pytest/Redis, test strategy, API и SQL |
 
 ## Лучшие проекты
 
@@ -108,7 +114,7 @@
 **AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers<br>
 **Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker<br>
 **Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows client-agent<br>
-**Quality:** tests, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
+**Quality:** test design, Playwright, pytest, xUnit, Moq, Postman/Newman, API testing, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
 
 ## Формат работы
 
@@ -118,9 +124,9 @@
 
 # Hi, I’m Samandar Mansurkhodjaev
 
-**Full-stack Developer | AI Automation Developer | Product-minded Software Engineer | Founder**
+**Full-stack Developer | QA Engineer | AI Automation Developer | Product-minded Software Engineer | Founder**
 
-I build complete products, not isolated code fragments: web apps, AI workflows, Telegram automations, dashboards, mobile/desktop apps, embedded/IoT systems, visual interfaces and internal business tools. My strongest area is turning unclear business problems into working systems with architecture, backend, frontend, UX, deployment and a clear path for iteration.
+I build complete products, not isolated code fragments: web apps, AI workflows, Telegram automations, dashboards, mobile/desktop apps, embedded/IoT systems, visual interfaces and internal business tools. My strongest area is turning unclear business problems into working systems with architecture, backend, frontend, UX, deployment and a clear path for iteration. I also develop quality-engineering practice through test design, UI/API testing, integration checks, critical-flow automation and CI quality gates.
 
 I am currently completing formal higher education in IT as a **3rd-year Bachelor's student in Software Engineering at IT Park University**. Alongside university, I build my own products and commercial projects, so I think about engineering through value, speed, quality and product outcomes.
 
@@ -132,6 +138,7 @@ I am currently completing formal higher education in IT as a **3rd-year Bachelor
 | Tech lead or CTO | [Project cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Architecture, stack, tradeoffs, complexity and engineering signals |
 | Founder, client or partner | [Collaboration](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md) and [Proof](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | How I turn ideas and tasks into product and business value |
 | You need live proof | [Proof](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Demos, public repos, GitHub Actions, links and safe presentation assets |
+| QA lead or tester | [QA portfolio](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) | Test strategy, test design, Playwright/pytest/xUnit cases, API and SQL practice |
 
 ## Education
 
@@ -149,6 +156,7 @@ I am currently completing formal higher education in IT as a **3rd-year Bachelor
 | **Automation under real constraints** | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Task Manage Bot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/task-manage-bot.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md) |
 | **Breadth beyond web** | [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system), [med-exe](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/med-exe.md) |
 | **Visual frontend and design** | [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/), [CV-Samandar](https://samandarmansurkhodjaev2713.github.io/CV-Samandar/) |
+| **QA and test automation** | [QA portfolio](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio): TTYL Playwright, BelfProctor xUnit/Moq, VFS pytest/Redis, test strategy, API and SQL |
 
 ## Selected Work
 
@@ -177,7 +185,7 @@ Key private/showcase projects: **TTYL Platform**, **BelfProctor**, **VFS Killer 
 **AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers<br>
 **Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker<br>
 **Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows client-agent<br>
-**Quality:** tests, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
+**Quality:** test design, Playwright, pytest, xUnit, Moq, Postman/Newman, API testing, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
 
 ## Work Format
 

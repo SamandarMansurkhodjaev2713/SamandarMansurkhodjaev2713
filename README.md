@@ -24,7 +24,9 @@
   <img height="28" alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg">
 </p>
 
-Я строю законченные продукты, а не отдельные куски кода: web apps, AI workflows, Telegram-автоматизации, dashboards, mobile/desktop приложения, embedded/IoT системы, визуальные интерфейсы и внутренние бизнес-инструменты. Моя сильная сторона: быстро превращать неясную бизнес-задачу в работающую систему с архитектурой, backend, frontend, UX, деплоем и понятной логикой развития. Отдельно развиваю QA-направление: test design, UI/API testing, интеграционные проверки, автоматизация критических сценариев и quality gates в CI.
+Я строю законченные продукты, а не отдельные куски кода: web apps, AI workflows, Telegram-автоматизации, dashboards, mobile/desktop приложения, embedded/IoT системы, визуальные интерфейсы и внутренние бизнес-инструменты. Моя сильная сторона: быстро превращать неясную бизнес-задачу в работающую систему с архитектурой, backend, frontend, UX, деплоем и понятной логикой развития.
+
+**QA / Quality Engineering:** около двух лет регулярной проектной практики в разработке и тестировании, включая 7 месяцев коммерческой full-stack работы с ответственностью за качество результата. Анализирую требования, проектирую проверки, тестирую UI/API/данные и интеграции, автоматизирую критичные сценарии и использую CI quality gates. Это совмещённый engineering + QA опыт, подтверждённый тестами и [матрицей качества проектов](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/blob/main/docs/project-quality-matrix.md), а не искусственно завышенный срок отдельной QA-должности.
 
 Сейчас я получаю высшее IT-образование: учусь на **3 курсе бакалавриата Software Engineering в IT Park University**. Параллельно развиваю собственные продукты и коммерческие проекты, поэтому смотрю на разработку не только как инженер, но и как человек, который отвечает за ценность, скорость, качество и результат.
 
@@ -126,7 +128,9 @@
 
 **Full-stack Developer | QA Engineer | AI Automation Developer | Product-minded Software Engineer | Founder**
 
-I build complete products, not isolated code fragments: web apps, AI workflows, Telegram automations, dashboards, mobile/desktop apps, embedded/IoT systems, visual interfaces and internal business tools. My strongest area is turning unclear business problems into working systems with architecture, backend, frontend, UX, deployment and a clear path for iteration. I also develop quality-engineering practice through test design, UI/API testing, integration checks, critical-flow automation and CI quality gates.
+I build complete products, not isolated code fragments: web apps, AI workflows, Telegram automations, dashboards, mobile/desktop apps, embedded/IoT systems, visual interfaces and internal business tools. My strongest area is turning unclear business problems into working systems with architecture, backend, frontend, UX, deployment and a clear path for iteration.
+
+**QA / Quality Engineering:** approximately two years of continuous project practice across development and testing, including seven months in a commercial full-stack role with responsibility for release quality. I analyse requirements, test UI/API/data and integrations, automate critical flows and use CI quality gates. This is combined engineering-and-QA ownership backed by test suites and a public [project quality matrix](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/blob/main/docs/project-quality-matrix.md), not an inflated claim of two years in a QA-only title.
 
 I am currently completing formal higher education in IT as a **3rd-year Bachelor's student in Software Engineering at IT Park University**. Alongside university, I build my own products and commercial projects, so I think about engineering through value, speed, quality and product outcomes.
 

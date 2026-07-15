@@ -1,196 +1,121 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Самандар Мансурходжаев — продуктовая разработка, прикладной AI и инженерия качества" width="100%">
+</p>
+
 # Привет, я Самандар Мансурходжаев
 
-**Full-stack Developer | QA Engineer | AI Automation Developer | Product-minded Software Engineer | Founder**
+**Product-minded Full-stack Developer · AI Automation Engineer · QA / Quality Engineer**
+
+Я превращаю продуктовую идею в работающую систему: уточняю задачу, проектирую пользовательский сценарий и архитектуру, собираю frontend и backend, подключаю AI и интеграции, деплою, проверяю критичные риски и довожу результат до состояния, которое можно показать пользователю или бизнесу.
+
+Мой основной профиль — **TypeScript/React/Next.js, Python/FastAPI, PostgreSQL/Supabase, AI/RAG и автоматизация**. Качество для меня не отдельный финальный этап: требования, тест-дизайн, API/UI/E2E-проверки, наблюдаемость и CI закладываются вместе с продуктом.
 
 <p>
-  <img alt="Full-stack" src="https://img.shields.io/badge/Full--stack-Product%20Engineering-1f6feb?style=flat-square">
-  <img alt="AI automation" src="https://img.shields.io/badge/AI-Automation%20%26%20RAG-7c3aed?style=flat-square">
-  <img alt="Quality engineering" src="https://img.shields.io/badge/QA-Test%20Design%20%26%20Automation-d97706?style=flat-square">
-  <img alt="System design" src="https://img.shields.io/badge/System-Design%20%26%20Architecture-0f766e?style=flat-square">
-  <img alt="Embedded" src="https://img.shields.io/badge/Embedded-IoT%20%26%20Realtime-334155?style=flat-square">
-  <img alt="Education" src="https://img.shields.io/badge/Education-Software%20Engineering%20Bachelor-0f172a?style=flat-square">
-</p>
-
-<p>
-  <img height="28" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img height="28" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img height="28" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img height="28" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img height="28" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img height="28" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
-  <img height="28" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img height="28" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img height="28" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
-  <img height="28" alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg">
-</p>
-
-Я строю законченные продукты, а не отдельные куски кода: web apps, AI workflows, Telegram-автоматизации, dashboards, mobile/desktop приложения, embedded/IoT системы, визуальные интерфейсы и внутренние бизнес-инструменты. Моя сильная сторона: быстро превращать неясную бизнес-задачу в работающую систему с архитектурой, backend, frontend, UX, деплоем и понятной логикой развития.
-
-**QA / Quality Engineering:** около двух лет регулярной проектной практики в разработке и тестировании, включая 7 месяцев коммерческой full-stack работы с ответственностью за качество результата. Анализирую требования, проектирую проверки, тестирую UI/API/данные и интеграции, автоматизирую критичные сценарии и использую CI quality gates. Это совмещённый engineering + QA опыт, подтверждённый тестами и [матрицей качества проектов](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/blob/main/docs/project-quality-matrix.md), а не искусственно завышенный срок отдельной QA-должности.
-
-Сейчас я получаю высшее IT-образование: учусь на **3 курсе бакалавриата Software Engineering в IT Park University**. Параллельно развиваю собственные продукты и коммерческие проекты, поэтому смотрю на разработку не только как инженер, но и как человек, который отвечает за ценность, скорость, качество и результат.
-
-<p>
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase">Витрина приватных проектов</a>
-  |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md">Карта проектов</a>
-  |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards">Карточки проектов</a>
-  |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/portfolio-guide.md">Путеводитель</a>
-  |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md">Сотрудничество</a>
-  |
-  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md">Доказательства</a>
-  |
+  <a href="https://klawis.uz">Klawis Live</a> ·
+  <a href="https://softlylove.uz">Softly Live</a> ·
+  <a href="https://dostupnoe-pravo-alpha.vercel.app">Legal CRM Demo</a> ·
+  <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase">Каталог проектов</a> ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio">QA-портфолио</a>
-  |
-  <a href="https://github.com/SamandarMansurkhodjaev2713?tab=repositories">Репозитории</a>
 </p>
 
-## Что открыть первым
+## Избранные проекты
 
-| Если вы... | Откройте | Что увидите |
+| Проект | Что создано | Главный инженерный сигнал |
 |---|---|---|
-| HR или рекрутер | [Карта проектов](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) | Быстрое понимание ролей, сильных проектов, стека и уровня ответственности |
-| Техлид или CTO | [Карточки проектов](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Архитектуру, стек, компромиссы, сложность и инженерные сигналы |
-| Founder, клиент или партнер | [Сотрудничество](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md) и [Доказательства](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Как я превращаю идеи и задачи в продуктовую и бизнес-ценность |
-| Нужно живое доказательство | [Доказательства](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Демо, public repos, GitHub Actions, ссылки и безопасные материалы для показа |
-| QA Lead или тестировщик | [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) | Test strategy, test design, Playwright/pytest/xUnit кейсы, API и SQL-практика |
+| **[Доступное Право](https://github.com/SamandarMansurkhodjaev2713/dostupnoe-pravo)** · [демо](https://dostupnoe-pravo-alpha.vercel.app) | CRM для частной юридической практики: клиенты, дела, статусы, история, заметки, следующий шаг, Telegram/email | Clean Architecture, Next.js 16, Supabase/PostgreSQL, RLS, конкурентные обновления, **192 теста**, CI |
+| **[Klawis](https://klawis.uz)** | Legal AI-навигация с маршрутизацией запроса, retrieval, источниками и проверяемыми ответами | RAG, FastAPI, Next.js, Supabase, оценка качества AI-ответов, sensitive-domain UX |
+| **[Softly / CoupleOS](https://softlylove.uz)** | Mobile-first продукт для пар с приватными сценариями, ритуалами, PWA и push-уведомлениями | Founder ownership, продуктовая стратегия, emotional UX, Supabase Auth/RLS, privacy-first подход |
+| **[TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md)** | Приватная on-prem платформа: проекты, чаты, файлы, поиск, аудит, роли и realtime | Enterprise system design, NestJS/Next.js, PostgreSQL, Redis, MinIO, RBAC, интеграционные и E2E-проверки |
+| **[AI Classroom](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ai-classroom.md)** | Privacy-first система анализа учебной аудитории через доказательные события и human review | FastAPI, React, AI workers, очереди, локальное хранение, golden reports, воспроизводимость и широкий test suite |
+| **[Platform Core](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/platform-core.md)** | Общий AI-контур: gateway провайдеров, омниканальный хаб и регрессионный eval harness | Go + NestJS + Python, routing/fallback, cost accounting, human takeover, CI-gates для поведения AI |
+| **[Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system)** · [демо](https://samandarmansurkhodjaev2713.github.io/sentinel-edge-smart-system/) | Локальная smart-система от firmware до операторского dashboard | Arduino C++, serial protocol, Node.js bridge, WebSocket, React/Vite, realtime telemetry |
+| **[Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager)** | Telegram-автоматизация задач, ролей, дедлайнов, напоминаний и аудита | Rust, Teloxide, SQLx, async jobs, RBAC, Docker, regression tests и CI |
 
-## Образование
+> Часть коммерческих и внутренних систем приватна. Для них опубликованы безопасные case studies: проблема, моя роль, стек, архитектура, решения, качество и доступные доказательства без клиентского кода, данных и секретов.
 
-| Университет | Степень | Этап | Фокус |
-|---|---|---|---|
-| **IT Park University** | Бакалавриат по **Software Engineering** | 3 курс | Software engineering, product development, system design, реальные IT-проекты |
+## Как я работаю с качеством
 
-## Чем я полезен
+- начинаю с требований, рисков и критериев приёмки, а не с хаотичной проверки готового интерфейса;
+- проверяю систему на нескольких уровнях: domain/unit, API и интеграции, данные/SQL, UI и критичные E2E-сценарии;
+- автоматизирую стабильные и дорогие для ручного повтора проверки, а исследовательское тестирование оставляю человеку;
+- использую Playwright, pytest, Vitest/Jest, xUnit, Postman/Newman, SQL и GitHub Actions там, где инструмент соответствует риску;
+- фиксирую ограничения, точки отказа, диагностику, критерии релиза и следующий слой покрытия.
 
-| Направление | Что я строю |
+**Проверяемые материалы:** [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) · [матрица качества проектов](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/blob/main/docs/project-quality-matrix.md) · [публичный Playwright workflow](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/actions)
+
+## Ещё сильные работы
+
+| Направление | Проекты |
 |---|---|
-| **Full-stack продукты** | SaaS-платформы, админ-панели, dashboards, collaboration tools, внутренние системы |
-| **AI automation** | RAG-ассистенты, AI workers, structured outputs, AI-powered bots, аналитические пайплайны |
-| **Telegram automation** | Voice-to-task боты, workflow-боты, напоминания, уведомления, операционные ассистенты |
-| **Product engineering** | MVP, UX, бизнес-логика, feature architecture, запуск, polish и итерации |
-| **Frontend & design** | Responsive UI, 3D/WebGL, motion, визуальная подача, интерфейсы с продуктовым вкусом |
-| **Backend & systems** | API, очереди, workers, базы данных, auth, Docker, сервисные границы, observability |
-| **Embedded & IoT** | Arduino-style firmware, serial protocols, Node.js bridges, realtime operator dashboards |
-| **QA & test automation** | Test design, чек-листы, test cases, bug reports, UI/API/E2E/integration testing, Playwright, pytest, xUnit, Postman, CI quality gates |
-
-## Карта доказательств
-
-| Сигнал | Где это видно |
-|---|---|
-| **Founder/product-minded engineering** | [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CoupleOS / Softly](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) ([SoftlyLove.uz](https://softlylove.uz)) |
-| **Enterprise/system design** | [TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md), [BelfProctor](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/belfproctor.md) |
-| **AI и RAG продукты** | [Klawis](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/klawis.md) ([klawis.uz](https://klawis.uz)) |
-| **Автоматизация в реальных условиях** | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Task Manage Bot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/task-manage-bot.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md) |
-| **Широта за пределами web** | [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system), [med-exe](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/med-exe.md) |
-| **Визуальный frontend и дизайн** | [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/), [CV-Samandar](https://samandarmansurkhodjaev2713.github.io/CV-Samandar/) |
-| **QA и автоматизация тестирования** | [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio): TTYL Playwright, BelfProctor xUnit/Moq, VFS pytest/Redis, test strategy, API и SQL |
-
-## Лучшие проекты
-
-| Проект | Тип | Стек | Что доказывает |
-|---|---|---|---|
-| [Klawis](https://klawis.uz) | Legal AI product | FastAPI, Next.js, Supabase, RAG | AI-продукт в чувствительном домене: источники, логика, roadmap, UX |
-| [CoupleOS / Softly](https://softlylove.uz) | Founder-led consumer product | Next.js, Supabase, PWA | Продуктовое мышление, emotional UX, privacy, retention, live launch |
-| [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, protocol, bridge, realtime UI |
-| [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) | Telegram automation | Rust, Teloxide, SQLx, Docker | Clean architecture, async jobs, reminders, CI |
-| [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/) | Visual frontend | Three.js, Vite | WebGL, interactive presentation, frontend polish |
-| [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Case studies | Architecture docs | Как я показываю закрытые проекты безопасно и профессионально |
-
-## Приватные и коммерческие проекты
-
-Часть моих сильнейших работ нельзя открыть как исходный код: там есть клиентский контекст, закрытая бизнес-логика, чувствительные домены, внутренние алгоритмы или данные. Я не публикую приватный source code, customer data, `.env`, credentials и внутренние детали, которые могут навредить продукту или клиенту.
-
-Вместо этого я показываю такие проекты как **code-safe case studies**: проблема, роль, стек, архитектура, почему она выбрана, сильные инженерные стороны, business value, live/demo материалы там, где это безопасно.
-
-Ключевые private/showcase проекты: **TTYL Platform**, **BelfProctor**, **VFS Killer Main**, **Forge / Learning OS**, **Klawis**, **Marketbot**, **med-exe**, **Task Manage Bot**, **CoupleOS / Softly**.
+| Продукты и архитектура | [CarSuperApp — активная продуктовая основа](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/carsuperapp.md), [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CardioGuard](https://github.com/SamandarMansurkhodjaev2713/cardioguard) |
+| Автоматизация и backend | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md), [BelfProctor](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/belfproctor.md) |
+| Frontend, данные и визуализация | [Bioflux Observer](https://github.com/SamandarMansurkhodjaev2713/bioflux-observer), [3D Landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/), [IZATULO / BEL ALMA](https://github.com/SamandarMansurkhodjaev2713/izatullo-komir-) · [демо](https://samandarmansurkhodjaev2713.github.io/izatullo-komir-/) |
 
 ## Стек
 
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js<br>
-**Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC<br>
-**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards<br>
-**AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers<br>
-**Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker<br>
-**Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows client-agent<br>
-**Quality:** test design, Playwright, pytest, xUnit, Moq, Postman/Newman, API testing, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
+**Frontend:** TypeScript, React, Next.js, React Native, Vite, Tailwind CSS, Three.js<br>
+**Backend:** Python, FastAPI, Node.js, NestJS, Rust, Go, REST, WebSocket, background jobs<br>
+**AI:** RAG, structured outputs, model routing, evaluations, OpenAI/Gemini integrations, AI workers<br>
+**Data & infrastructure:** PostgreSQL, Supabase, Redis, RabbitMQ, MinIO, Docker, GitHub Actions<br>
+**Quality:** test design, Playwright, pytest, Vitest/Jest, xUnit, Postman/Newman, SQL, CI quality gates
 
-## Формат работы
+## Образование и контакты
 
-Открыт к full-time ролям, стажировкам, freelance/contract проектам и продуктовым коллаборациям. Сильнее всего раскрываюсь там, где важны скорость, инженерная аккуратность, продуктовая логика, чистая коммуникация и умение довести идею до работающего результата.
+Получаю высшее IT-образование: **3 курс бакалавриата Software Engineering в IT Park University**. Почти два года развиваю собственные и коммерческие продукты и системно отвечаю в них за проверку качества; в том числе имею **7 месяцев коммерческой full-stack практики** с ответственностью за результат релиза.
+
+Открыт к full-time ролям, контрактной разработке и продуктовым коллаборациям, где важны самостоятельность, скорость, инженерная аккуратность и понятная ценность для пользователя.
+
+**Email:** [sam4k27@gmail.com](mailto:sam4k27@gmail.com) · **Telegram:** [@KillAllOfThem13](https://t.me/KillAllOfThem13) · **Локация:** Ташкент, Узбекистан
 
 ---
 
-# Hi, I’m Samandar Mansurkhodjaev
+# English
 
-**Full-stack Developer | QA Engineer | AI Automation Developer | Product-minded Software Engineer | Founder**
+## Hi, I’m Samandar Mansurkhodjaev
 
-I build complete products, not isolated code fragments: web apps, AI workflows, Telegram automations, dashboards, mobile/desktop apps, embedded/IoT systems, visual interfaces and internal business tools. My strongest area is turning unclear business problems into working systems with architecture, backend, frontend, UX, deployment and a clear path for iteration.
+**Product-minded Full-stack Developer · AI Automation Engineer · QA / Quality Engineer**
 
-**QA / Quality Engineering:** approximately two years of continuous project practice across development and testing, including seven months in a commercial full-stack role with responsibility for release quality. I analyse requirements, test UI/API/data and integrations, automate critical flows and use CI quality gates. This is combined engineering-and-QA ownership backed by test suites and a public [project quality matrix](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/blob/main/docs/project-quality-matrix.md), not an inflated claim of two years in a QA-only title.
+I turn product ideas into working systems: clarify the problem, design the user journey and architecture, build frontend and backend, connect AI and integrations, deploy, test critical risks and refine the result until it is ready for users or business validation.
 
-I am currently completing formal higher education in IT as a **3rd-year Bachelor's student in Software Engineering at IT Park University**. Alongside university, I build my own products and commercial projects, so I think about engineering through value, speed, quality and product outcomes.
-
-## What To Open First
-
-| If you are... | Open | What you will see |
-|---|---|---|
-| Recruiter or HR | [Project map](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/project-cards.md) | Fast overview of roles, strongest projects, stack and ownership |
-| Tech lead or CTO | [Project cards](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/tree/main/cards) | Architecture, stack, tradeoffs, complexity and engineering signals |
-| Founder, client or partner | [Collaboration](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/collaboration.md) and [Proof](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | How I turn ideas and tasks into product and business value |
-| You need live proof | [Proof](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/proof.md) | Demos, public repos, GitHub Actions, links and safe presentation assets |
-| QA lead or tester | [QA portfolio](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) | Test strategy, test design, Playwright/pytest/xUnit cases, API and SQL practice |
-
-## Education
-
-| Institution | Degree | Current stage | Focus |
-|---|---|---|---|
-| **IT Park University** | Bachelor's degree in **Software Engineering** | 3rd-year student | Software engineering, product development, system design and practical IT projects |
-
-## Best Proof
-
-| Signal | Best proof |
-|---|---|
-| **Founder/product-minded engineering** | [Forge / Learning OS](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/forge-learning-os.md), [CoupleOS / Softly](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) ([SoftlyLove.uz](https://softlylove.uz)) |
-| **Enterprise/system design** | [TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md), [BelfProctor](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/belfproctor.md) |
-| **AI and RAG products** | [Klawis](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/klawis.md) ([klawis.uz](https://klawis.uz)) |
-| **Automation under real constraints** | [VFS Killer Main](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/vfs-killer-main.md), [Task Manage Bot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/task-manage-bot.md), [Marketbot](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/marketbot.md) |
-| **Breadth beyond web** | [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system), [med-exe](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/med-exe.md) |
-| **Visual frontend and design** | [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/), [CV-Samandar](https://samandarmansurkhodjaev2713.github.io/CV-Samandar/) |
-| **QA and test automation** | [QA portfolio](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio): TTYL Playwright, BelfProctor xUnit/Moq, VFS pytest/Redis, test strategy, API and SQL |
+My core stack is **TypeScript/React/Next.js, Python/FastAPI, PostgreSQL/Supabase, applied AI/RAG and automation**. Quality is part of my engineering process rather than a final checkpoint: requirements, test design, API/UI/E2E coverage, observability and CI are considered together with the product.
 
 ## Selected Work
 
-| Project | Type | Stack | What it demonstrates |
-|---|---|---|---|
-| [Klawis](https://klawis.uz) | Legal AI product | FastAPI, Next.js, Supabase, RAG | AI product in a sensitive domain: sources, logic, roadmap and UX |
-| [CoupleOS / Softly](https://softlylove.uz) | Founder-led consumer product | Next.js, Supabase, PWA | Product thinking, emotional UX, privacy, retention and live launch |
-| [Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system) | Embedded + realtime dashboard | Arduino C++, Node.js, React, Vite | Firmware, protocol, bridge and realtime UI |
-| [Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager) | Telegram automation | Rust, Teloxide, SQLx, Docker | Clean architecture, async jobs, reminders and CI |
-| [3d-landing](https://samandarmansurkhodjaev2713.github.io/3d-landing/) | Visual frontend | Three.js, Vite | WebGL, interactive presentation and frontend polish |
-| [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Case studies | Architecture docs | How I present private work safely and professionally |
+| Project | Product | Engineering signal |
+|---|---|---|
+| **[Dostupnoe Pravo](https://github.com/SamandarMansurkhodjaev2713/dostupnoe-pravo)** · [demo](https://dostupnoe-pravo-alpha.vercel.app) | CRM for private legal practice: clients, cases, statuses, history, notes and next actions | Clean Architecture, Next.js 16, Supabase/PostgreSQL, RLS, concurrency control, **192 tests**, CI |
+| **[Klawis](https://klawis.uz)** | Legal AI navigation with request routing, retrieval, citations and traceable answers | RAG, FastAPI, Next.js, Supabase, AI evaluation and sensitive-domain UX |
+| **[Softly / CoupleOS](https://softlylove.uz)** | Mobile-first relationship product with private couple flows, rituals, PWA and push | Founder ownership, product strategy, emotional UX, Supabase Auth/RLS and privacy-first design |
+| **[TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md)** | Private on-prem workspace with projects, chat, files, search, audit, roles and realtime | Enterprise design, NestJS/Next.js, PostgreSQL, Redis, MinIO, RBAC, integration and E2E coverage |
+| **[AI Classroom](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ai-classroom.md)** | Privacy-first classroom analytics based on evidence events and human review | FastAPI, React, AI workers, queues, local storage, golden reports and reproducible tests |
+| **[Platform Core](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/platform-core.md)** | Shared AI gateway, omnichannel hub and regression evaluation harness | Go + NestJS + Python, routing/fallback, cost accounting, human takeover and AI CI gates |
+| **[Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system)** · [demo](https://samandarmansurkhodjaev2713.github.io/sentinel-edge-smart-system/) | Local smart system from firmware to operator dashboard | Arduino C++, serial protocol, Node.js bridge, WebSocket and React/Vite telemetry |
+| **[Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager)** | Telegram task, role, deadline, reminder and audit automation | Rust, Teloxide, SQLx, async jobs, RBAC, Docker, regression tests and CI |
 
-## Private & Commercial Work
+Private and commercial source code is presented through code-safe case studies: problem, ownership, stack, architecture, decisions, quality and available proof without exposing customer code, data or secrets.
 
-Some of my strongest work cannot be published as source code because it includes client context, private business logic, sensitive domains, internal algorithms or customer data. I do not publish private source code, customer data, `.env`, credentials or details that could harm a product or client.
+## Quality Engineering
 
-Instead, I present those projects as **code-safe case studies**: problem, role, stack, architecture, reasoning, strongest engineering signals, business value and safe demo/live materials where available.
+- start from requirements, risks and acceptance criteria;
+- cover domain logic, APIs and integrations, data/SQL, UI and critical E2E journeys;
+- automate stable checks with high repeat cost while keeping exploratory testing human-led;
+- use Playwright, pytest, Vitest/Jest, xUnit, Postman/Newman, SQL and GitHub Actions according to the risk;
+- document constraints, failure points, diagnostics, release criteria and the next valuable coverage layer.
 
-Key private/showcase projects: **TTYL Platform**, **BelfProctor**, **VFS Killer Main**, **Forge / Learning OS**, **Klawis**, **Marketbot**, **med-exe**, **Task Manage Bot**, **CoupleOS / Softly**.
+**Evidence:** [QA portfolio](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) · [project quality matrix](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/blob/main/docs/project-quality-matrix.md) · [public Playwright workflow](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio/actions)
 
-## Tech Stack
+## Stack
 
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Framer Motion, Radix UI, Three.js<br>
-**Backend:** Python, FastAPI, Node.js, NestJS, Rust, Axum, SQLx, REST, gRPC<br>
-**Embedded/IoT:** Arduino-style C++, serial protocols, sensor telemetry, Node.js bridge dashboards<br>
-**AI:** OpenAI/Gemini integrations, RAG, structured outputs, model evaluation, AI workers<br>
-**Data & infra:** PostgreSQL, SQLite, Supabase, Redis, RabbitMQ, Prisma, SQLAlchemy, Docker<br>
-**Mobile/Desktop:** React Native, Expo, Tauri, Rust desktop architecture, Windows client-agent<br>
-**Quality:** test design, Playwright, pytest, xUnit, Moq, Postman/Newman, API testing, typecheck, linting, CI, clean architecture, documentation, privacy-aware design
+**Frontend:** TypeScript, React, Next.js, React Native, Vite, Tailwind CSS, Three.js<br>
+**Backend:** Python, FastAPI, Node.js, NestJS, Rust, Go, REST, WebSocket, background jobs<br>
+**AI:** RAG, structured outputs, model routing, evaluations, OpenAI/Gemini integrations, AI workers<br>
+**Data & infrastructure:** PostgreSQL, Supabase, Redis, RabbitMQ, MinIO, Docker, GitHub Actions<br>
+**Quality:** test design, Playwright, pytest, Vitest/Jest, xUnit, Postman/Newman, SQL and CI gates
 
-## Work Format
+## Education & Contact
 
-Open to full-time roles, internships, freelance/contract projects and product collaborations. I am strongest in teams where speed, engineering care, product logic, clear communication and shipping real outcomes matter.
+I am a **third-year Software Engineering bachelor’s student at IT Park University**. For almost two years I have been building personal and commercial products with continuous responsibility for quality, including **seven months of commercial full-stack practice** with release-level ownership.
+
+Open to full-time roles, contract work and product collaborations where autonomy, speed, engineering care and clear user value matter.
+
+**Email:** [sam4k27@gmail.com](mailto:sam4k27@gmail.com) · **Telegram:** [@KillAllOfThem13](https://t.me/KillAllOfThem13) · **Location:** Tashkent, Uzbekistan

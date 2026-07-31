@@ -4,7 +4,7 @@
 
 # Привет, я Самандар Мансурходжаев
 
-**Product-minded Full-stack Developer · AI Automation Engineer · QA / Quality Engineer**
+**Продуктовый full-stack разработчик · AI-автоматизация · QA / Quality Engineering · Founder**
 
 Я превращаю продуктовую идею в работающую систему: уточняю задачу, проектирую пользовательский сценарий и архитектуру, собираю frontend и backend, подключаю AI и интеграции, деплою, проверяю критичные риски и довожу результат до состояния, которое можно показать пользователю или бизнесу.
 
@@ -26,8 +26,8 @@
 | **[Klawis](https://klawis.uz)** | Legal AI-навигация с маршрутизацией запроса, retrieval, источниками и проверяемыми ответами | RAG, FastAPI, Next.js, Supabase, оценка качества AI-ответов, sensitive-domain UX |
 | **[Softly / CoupleOS](https://softlylove.uz)** | Mobile-first продукт для пар с приватными сценариями, ритуалами, PWA и push-уведомлениями | Founder ownership, продуктовая стратегия, emotional UX, Supabase Auth/RLS, privacy-first подход |
 | **[TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md)** | Приватная on-prem платформа: проекты, чаты, файлы, поиск, аудит, роли и realtime | Enterprise system design, NestJS/Next.js, PostgreSQL, Redis, MinIO, RBAC, интеграционные и E2E-проверки |
+| **[ChAT-app](https://github.com/SamandarMansurkhodjaev2713/ChAT-app)** | Mobile-first мессенджер с offline outbox, realtime-сценариями, OTP и защитой данных | React Native/Expo, Firebase, SQLite, strict TypeScript, 234 автоматизированные проверки и проверяемые security rules |
 | **[AI Classroom](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ai-classroom.md)** | Privacy-first система анализа учебной аудитории через доказательные события и human review | FastAPI, React, AI workers, очереди, локальное хранение, golden reports, воспроизводимость и широкий test suite |
-| **[Platform Core](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/platform-core.md)** | Общий AI-контур: gateway провайдеров, омниканальный хаб и регрессионный eval harness | Go + NestJS + Python, routing/fallback, cost accounting, human takeover, CI-gates для поведения AI |
 | **[Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system)** · [демо](https://samandarmansurkhodjaev2713.github.io/sentinel-edge-smart-system/) | Локальная smart-система от firmware до операторского dashboard | Arduino C++, serial protocol, Node.js bridge, WebSocket, React/Vite, realtime telemetry |
 | **[Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager)** | Telegram-автоматизация задач, ролей, дедлайнов, напоминаний и аудита | Rust, Teloxide, SQLx, async jobs, RBAC, Docker, regression tests и CI |
 
@@ -87,8 +87,8 @@ My core stack is **TypeScript/React/Next.js, Python/FastAPI, PostgreSQL/Supabase
 | **[Klawis](https://klawis.uz)** | Legal AI navigation with request routing, retrieval, citations and traceable answers | RAG, FastAPI, Next.js, Supabase, AI evaluation and sensitive-domain UX |
 | **[Softly / CoupleOS](https://softlylove.uz)** | Mobile-first relationship product with private couple flows, rituals, PWA and push | Founder ownership, product strategy, emotional UX, Supabase Auth/RLS and privacy-first design |
 | **[TTYL Platform](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ttyl-platform.md)** | Private on-prem workspace with projects, chat, files, search, audit, roles and realtime | Enterprise design, NestJS/Next.js, PostgreSQL, Redis, MinIO, RBAC, integration and E2E coverage |
+| **[ChAT-app](https://github.com/SamandarMansurkhodjaev2713/ChAT-app)** | Mobile-first messenger with a durable offline outbox, realtime flows, OTP and data protection | React Native/Expo, Firebase, SQLite, strict TypeScript, 234 automated checks and tested security rules |
 | **[AI Classroom](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/ai-classroom.md)** | Privacy-first classroom analytics based on evidence events and human review | FastAPI, React, AI workers, queues, local storage, golden reports and reproducible tests |
-| **[Platform Core](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/platform-core.md)** | Shared AI gateway, omnichannel hub and regression evaluation harness | Go + NestJS + Python, routing/fallback, cost accounting, human takeover and AI CI gates |
 | **[Sentinel Edge](https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system)** · [demo](https://samandarmansurkhodjaev2713.github.io/sentinel-edge-smart-system/) | Local smart system from firmware to operator dashboard | Arduino C++, serial protocol, Node.js bridge, WebSocket and React/Vite telemetry |
 | **[Task-manager](https://github.com/SamandarMansurkhodjaev2713/Task-manager)** | Telegram task, role, deadline, reminder and audit automation | Rust, Teloxide, SQLx, async jobs, RBAC, Docker, regression tests and CI |
 

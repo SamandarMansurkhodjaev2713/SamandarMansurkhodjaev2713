@@ -15,6 +15,7 @@
   <a href="#опыт-product--project--delivery">Product & Project</a> ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio">QA-портфолио</a> ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase">Атлас работ</a> ·
+  <a href="https://samandarmansurkhodjaev2713.github.io/CV-Samandar/">Сайт / Portfolio</a> ·
   <a href="https://t.me/KillAllOfThem13">Telegram</a>
 </p>
 
@@ -69,7 +70,14 @@ Mobile-first продукт для пар: приватные сценарии, 
 
 `Next.js` `Supabase Auth / RLS` `PWA` · [Сайт / Live](https://softlylove.uz) · [Карточка / Case](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md)
 
-### 07 · [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) <sub>Quality Engineering</sub>
+### 07 · [Wedding Invitations Uzbekistan](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/wedding-invitations-uz.md) <sub>Multilingual product platform</sub>
+
+Платформа свадебных сайтов: десять самостоятельных арт-направлений, совместный редактор, приватная публикация и RSVP на русском, узбекской латинице и кириллице.<br>
+<sub>A wedding-site platform with ten authored art directions, collaborative editing, private publishing and RSVP across Russian, Uzbek Latin and Uzbek Cyrillic.</sub>
+
+`TypeScript` `React` `PostgreSQL` `OpenAPI` `Playwright` · [Карточка / Case](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/wedding-invitations-uz.md)
+
+### 08 · [QA-портфолио](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio) <sub>Quality Engineering</sub>
 
 Практические кейсы по тест-дизайну, API, SQL, UI/E2E и автоматизации, привязанные к продуктовым рискам и реальным системным границам.<br>
 <sub>Practical test design, API, SQL, UI/E2E and automation work grounded in product risks and real system boundaries.</sub>
@@ -80,8 +88,8 @@ Mobile-first продукт для пар: приватные сценарии, 
 
 ## Опыт Product & Project Delivery
 
-**1,3 года коммерческой практики в product/project delivery.** Веду путь от неясной задачи к измеримому следующему шагу: декомпозиция и приоритизация, формирование требований и сценариев, планирование релизов, синхронизация с разработкой и дизайном, приёмка, работа с рисками и фиксация решений.<br>
-<sub><b>1.3 years of commercial product/project delivery practice.</b> I turn ambiguous work into a measurable next step: decomposition and prioritization, requirements and user flows, release planning, engineering/design coordination, acceptance, risk management and documented decisions.</sub>
+**1,7 года коммерческой и фриланс-практики в разработке и product/project delivery.** Внутри этого опыта — **11 месяцев в TTYL** в совмещённой зоне Product / Project Manager, Technical Lead, QA и AI Automation Engineer. Веду путь от неясной задачи к измеримому следующему шагу: декомпозиция и приоритизация, требования и сценарии, планирование релизов, синхронизация разработки и дизайна, приёмка, риски и фиксация решений.<br>
+<sub><b>1.7 years of commercial and freelance product/engineering delivery, including 11 months at TTYL</b> across Product / Project Management, Technical Lead, QA and AI Automation responsibilities. I turn ambiguous work into a measurable next step through prioritisation, requirements, release planning, engineering/design coordination, acceptance, risk management and documented decisions.</sub>
 
 | Product | Project | Delivery |
 | --- | --- | --- |
@@ -113,6 +121,8 @@ Mobile-first продукт для пар: приватные сценарии, 
   <a href="https://samandarmansurkhodjaev2713.github.io/echelon-site-main/">Echelon</a> ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/ChAT-app">ChAT-app</a> ·
   <a href="https://github.com/SamandarMansurkhodjaev2713/sentinel-edge-smart-system">Sentinel Edge</a> ·
+  <a href="https://samandarmansurkhodjaev2713.github.io/gorilla-five-signals-concept/">Gorilla Five Signals</a> ·
+  <a href="https://github.com/SamandarMansurkhodjaev2713/YuliaCV">Yulia SMM Portfolio</a> ·
   <a href="https://izzatullo.uz/">IZATULO / BEL ALMA</a>
 </p>
 
@@ -121,6 +131,7 @@ Mobile-first продукт для пар: приватные сценарии, 
 <p align="center">
   <b>3 курс бакалавриата Software Engineering · IT Park University</b><br>
   <sub>Third-year Software Engineering bachelor’s student · IT Park University</sub><br><br>
+  <a href="https://samandarmansurkhodjaev2713.github.io/CV-Samandar/">Portfolio</a> ·
   <a href="mailto:sam4k27@gmail.com">sam4k27@gmail.com</a> ·
   <a href="https://t.me/KillAllOfThem13">@KillAllOfThem13</a> ·
   Ташкент, Узбекистан / Tashkent, Uzbekistan

@@ -28,12 +28,12 @@
 
 ## Сильнейшие работы / Flagship Work
 
-### 01 · [DentForma](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/dentforma.md) <sub>Private dental 3D workflow</sub>
+### 01 · [DentForma / SmileMax](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/dentforma.md) <sub>Private dental 3D workflow</sub>
 
-Браузерная система согласования формы зубов: STL-модели, роли техника/врача/пациента, детерминированное 3D-редактирование, приватное хранение и неизменяемые результаты. Инженерная beta готова к контролируемому пилоту; это не заявление о медицинской сертификации.<br>
-<sub>Browser-based dental 3D review with role workflows, deterministic STL editing, private storage and immutable results. Engineering beta ready for a controlled pilot; not a medical-certification claim.</sub>
+Приватная браузерная система согласования стоматологических 3D-моделей. В репозитории продуктовая линия называется DentForma; актуальный пользовательский бренд в документации — SmileMax. Ролевые сценарии, STL-модели, версии и QA-доказательства описаны без заявлений о сертификации или клинической готовности.<br>
+<sub>Private browser-based dental 3D review. DentForma is the repository/product-line name; SmileMax is the current user-facing brand in the project documentation. Role workflows, STL models, versioning and QA evidence are documented without claims of certification or clinical readiness.</sub>
 
-`React` `NestJS / Fastify` `Three.js` `PostgreSQL / Prisma` `MinIO` `Playwright` · [Карточка / Case](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/dentforma.md)
+`React` `NestJS / Fastify` `Three.js` `PostgreSQL / Prisma` `MinIO` `Playwright` · [Карточка / Case](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/dentforma.md) · [Скриншоты продукта / Product screenshots](https://github.com/SamandarMansurkhodjaev2713/TitanPro3D/tree/main/docs/assets/smilemax-2026-10-18)
 
 ### 02 · [MeetingFlow RU/UZ](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/meetingflow.md) <sub>Production meeting automation</sub>
 
@@ -84,6 +84,16 @@ Mobile-first продукт для пар: приватные сценарии, 
 
 `Playwright` `pytest` `xUnit` `Postman / Newman` `SQL` `GitHub Actions` · [Открыть / Open](https://github.com/SamandarMansurkhodjaev2713/qa-engineering-portfolio)
 
+## Новые работы / Recent Work
+
+| Проект | Что это | Статус и материалы |
+| --- | --- | --- |
+| [Tayvero](https://github.com/SamandarMansurkhodjaev2713/tayvero) | Open-source CRM и основа Business OS: контакты, сделки и контролируемые AI-workflows. | Активная разработка; README разделяет реализованные сценарии и ограничения.<br><sub>Open-source CRM and Business OS foundation with contacts, deals and governed AI workflows. Active development; implementation status and limits are documented.</sub> |
+| [¡Vamos! Spanish](https://github.com/SamandarMansurkhodjaev2713/vamos-spanish) | Учебный продукт: уроки, разговорная практика, аудио и повторение для русскоязычных начинающих. | Публичный проект с демонстрациями интерфейса и учебными источниками.<br><sub>A Spanish-learning product for Russian-speaking beginners, with lessons, speaking practice, audio and review. Public repository includes UI previews and learning sources.</sub> |
+| [Gorilla Five Signals](https://github.com/SamandarMansurkhodjaev2713/gorilla-five-signals-concept) | Исследование визуального сторителлинга: типографика, движение и адаптивная подача. | Независимый публичный концепт, не официальный сайт и не заявление об аффилиации.<br><sub>A visual storytelling study in typography, motion and responsive presentation. An independent concept, not an official site or affiliation claim.</sub> |
+
+Другие проекты и безопасные описания приватных систем собраны в [Project Atlas](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase). Статусы указаны отдельно, без предположений о коммерческом запуске.
+
 ---
 
 ## Опыт Product & Project Delivery
@@ -100,8 +110,8 @@ Mobile-first продукт для пар: приватные сценарии, 
 Качество для меня — не финальная проверка экранов, а часть проектирования. Сначала определяю риски и критерии приёмки, затем выбираю слой проверки: доменная логика и данные, API и интеграции, UI и критичные E2E-сценарии. Автоматизирую повторяемые проверки и отдельно фиксирую остаточный риск.<br>
 <sub>Quality is part of design, not a final screen check. I start with risks and acceptance criteria, choose the right layer—domain/data, API/integration, UI and critical E2E—and document residual risk alongside repeatable automated checks.</sub>
 
-**Практика в репозиториях:** DentForma — локальная тестовая кампания, browser matrix, visual/a11y, recovery и security checks; TTYL — границы сервисов, доступы и асинхронные процессы; Доступное Право — CI, RLS и конкурентные сценарии; Telegram Task Bot — 126 локальных тестов, coverage gates и 20 000-task snapshot; ChAT-app — offline/realtime/security paths.<br>
-<sub><b>Repository evidence:</b> DentForma local test campaign, browser matrix, visual/a11y, recovery and security checks; TTYL service boundaries, access and async flows; Dostupnoe Pravo CI/RLS/concurrency; Telegram Task Bot 126 local tests, coverage gates and a 20,000-task snapshot; ChAT-app offline/realtime/security paths.</sub>
+**Практика в репозиториях:** DentForma/SmileMax — локальная тестовая кампания, browser matrix, visual/a11y, recovery и security checks; TTYL — границы сервисов, доступы и асинхронные процессы; Доступное Право — CI, RLS и конкурентные сценарии; Telegram Task Bot — 126 локальных тестов, coverage gates и 20 000-task snapshot; ChAT-app — offline/realtime/security paths.<br>
+<sub><b>Repository evidence:</b> DentForma/SmileMax local test campaign, browser matrix, visual/a11y, recovery and security checks; TTYL service boundaries, access and async flows; Dostupnoe Pravo CI/RLS/concurrency; Telegram Task Bot 126 local tests, coverage gates and a 20,000-task snapshot; ChAT-app offline/realtime/security paths.</sub>
 
 ## Технологии / Technologies
 
